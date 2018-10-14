@@ -5,3 +5,11 @@ body {
 .text-times {
     font-family: 'Times New Roman', Times, serif;
 }
+
+.img-200 {
+    height: 200px;
+}
+
+.rounded-oval {
+    border-radius: 25px;
+}
